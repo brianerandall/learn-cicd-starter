@@ -1,7 +1,7 @@
 package auth
 
 import (
-     "testing"
+	"testing"
 )
 
 func TestStub(t *testing.T) {
